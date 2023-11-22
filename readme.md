@@ -13,3 +13,5 @@
 [embed youtube here]
 
 Synopsis: A former pianist sees a mysterious photo that leads him into a rabbit hole of unintended consequences.
+Directed by Claudia Solis-Lemus
+Written by Daniel Pimentel-Alarcon and Claudia Solis-Lemus
