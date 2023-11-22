@@ -1,13 +1,11 @@
-# There are no bugs in winter
-
 101 minutes | United States | 2023 | Spanish with English subtitles
 
 <div class="row">
   <div class="column">
-    <img src="images/EXCELLENCE-SCIFI-HispanicInternationalFilmFestival-2023.png" alt="Scifi" style="width:50%">
+    <img src="images/EXCELLENCE-SCIFI-HispanicInternationalFilmFestival-2023.png" alt="Scifi" style="width:30%">
   </div>
   <div class="column">
-    <img src="images/EXCELLENCE-ZEROBUDGET-HispanicInternationalFilmFestival-2023.png" alt="ZeroBudget" style="width:50%">
+    <img src="images/EXCELLENCE-ZEROBUDGET-HispanicInternationalFilmFestival-2023.png" alt="ZeroBudget" style="width:30%">
   </div>
 </div>
 
