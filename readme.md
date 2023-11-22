@@ -1,5 +1,3 @@
-101 minutes | United States | 2023 | Spanish with English subtitles
-
 <div class="row">
   <div class="column">
     <img src="images/EXCELLENCE-SCIFI-HispanicInternationalFilmFestival-2023.png" alt="Scifi" style="width:30%">
