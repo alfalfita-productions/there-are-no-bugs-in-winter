@@ -1,7 +1,10 @@
+<link rel=stylesheet href="style.css" type="text/css">
 <div class="row">
   <div class="column">
+  <div class="center">
     <img src="images/EXCELLENCE-SCIFI-HispanicInternationalFilmFestival-2023.png" alt="Scifi" style="width:30%">
     <img src="images/EXCELLENCE-ZEROBUDGET-HispanicInternationalFilmFestival-2023.png" alt="ZeroBudget" style="width:30%">
+  </div>
   </div>
 </div>
 
@@ -10,9 +13,9 @@
 
 _A former pianist sees a mysterious photo that leads him into a rabbit hole of unintended consequences._
 
-Directed by Claudia Solis-Lemus
+Directed by Claudia Solís-Lemus
 
-Written by Daniel Pimentel-Alarcon and Claudia Solis-Lemus
+Written by Daniel Pimentel-Alarcón and Claudia Solís-Lemus
 
 
 **Future screenings:**
