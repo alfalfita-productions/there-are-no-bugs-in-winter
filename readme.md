@@ -1,4 +1,6 @@
+<head>
 <link rel=stylesheet href="style.css" type="text/css">
+</head>
 <div class="row">
   <div class="column">
   <div class="center">
@@ -7,6 +9,7 @@
   </div>
   </div>
 </div>
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/upTggifVQ10?si=tIdhRQy5ae-55uff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
