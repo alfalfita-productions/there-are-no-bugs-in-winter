@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Centered Image</title>
@@ -17,7 +15,6 @@
     <img src="images/EXCELLENCE-SCIFI-HispanicInternationalFilmFestival-2023.png" alt="SciFi" style="width:30%">
     <img src="images/EXCELLENCE-ZEROBUDGET-HispanicInternationalFilmFestival-2023.png" alt="ZeroBudget" style="width:30%">
 </body>
-</html>
 
 
 
