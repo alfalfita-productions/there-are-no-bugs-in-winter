@@ -1,21 +1,9 @@
-<head>
-    <meta charset="UTF-8">
-    <title>Centered Image</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-    </style>
-</head>
-<body>
-    <img src="images/EXCELLENCE-SCIFI-HispanicInternationalFilmFestival-2023.png" alt="SciFi" style="width:30%">
+<div class="row">
+  <div class="column">
+    <img src="images/EXCELLENCE-SCIFI-HispanicInternationalFilmFestival-2023.png" alt="Scifi" style="width:30%">
     <img src="images/EXCELLENCE-ZEROBUDGET-HispanicInternationalFilmFestival-2023.png" alt="ZeroBudget" style="width:30%">
-</body>
-
+  </div>
+</div>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/upTggifVQ10?si=tIdhRQy5ae-55uff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
