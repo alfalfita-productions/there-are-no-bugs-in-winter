@@ -1,14 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<link rel=stylesheet href="assets/css/style.css" type="text/css">
+    <meta charset="UTF-8">
+    <title>Centered Image</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+    </style>
 </head>
-<div class="row">
-  <div class="column">
-  <div class="center">
-    <img src="images/EXCELLENCE-SCIFI-HispanicInternationalFilmFestival-2023.png" alt="Scifi" style="width:30%">
+<body>
+    <img src="images/EXCELLENCE-SCIFI-HispanicInternationalFilmFestival-2023.png" alt="SciFi" style="width:30%">
     <img src="images/EXCELLENCE-ZEROBUDGET-HispanicInternationalFilmFestival-2023.png" alt="ZeroBudget" style="width:30%">
-  </div>
-  </div>
-</div>
+</body>
+</html>
 
 
 
