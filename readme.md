@@ -14,8 +14,11 @@ Directed by Claudia Solís-Lemus
 
 Written by Daniel Pimentel-Alarcón and Claudia Solís-Lemus
 
+**Future screening:**
 
-**Future screenings:**
+- February 21, 2025 7pm: The Marquee (Union South)
+
+**Past screenings:**
 
 - December 12, 2023 6pm: The Marquee (Union South)
 - December 14, 2023 6pm: [Central Library](https://www.madisonpubliclibrary.org/events/film-screening-there-are-no-bugs-winter-1263451)
