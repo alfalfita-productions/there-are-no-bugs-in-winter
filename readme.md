@@ -16,7 +16,7 @@ Written by Daniel Pimentel-Alarcón and Claudia Solís-Lemus
 
 **Future screening:**
 
-- February 21, 2025 7pm: The Marquee (Union South)
+- October 2025 (stay tuned!)
 
 **Past screenings:**
 
