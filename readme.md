@@ -16,7 +16,7 @@ Written by Daniel Pimentel-Alarcón and Claudia Solís-Lemus
 
 **Future screening:**
 
-- October 2025 (stay tuned!)
+- 10 October 2025 6p CT: DeLuca forum in the Discovery Building
 
 **Past screenings:**
 
